@@ -1,0 +1,3 @@
+hello  welcome spring clone test this is my first git test  welcome ;
+in here you  can do any thing;
+you are host or master
